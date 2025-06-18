@@ -29,7 +29,7 @@ A simple Java game where colorful rectangles are spawned on mouse clicks and bou
     - Clear the screen
     - Update and redraw every rectangle each frame
 
-- **`MouseInputs` Class** (Assumed)  
+- **`MouseInputs` Class**
   - Handles mouse events and passes coordinates to `GamePanel.spawnRect(x, y)`
 
 ---
